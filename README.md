@@ -8,5 +8,7 @@ Currently the code does not allow for interactions.
 The code is written in python and it requieres the twpytwalk library which can be download at [pytwalk](https://www.cimat.mx/~jac/twalk/)
 
 
+### Data
+Data obtained by [Sizhe Chen](sc2348@cam.ac.uk)
 
 
